@@ -1,6 +1,6 @@
 # Política de Privacidade — Minhas Contas: Orçamentos (Bills)
 
-**Em vigor desde 6 de novembro de 2026.** [English version](doc:Privacy)
+**Em vigor desde 7 de novembro de 2026.** [English version](doc:Privacy)
 
 O app Minhas Contas: Orçamentos (chamado "Bills" em inglês, daqui em diante "o app") ajuda você a planejar contas e receitas que se repetem. Esta política explica, sem rodeios, o que acontece com os seus dados.
 
@@ -65,6 +65,8 @@ O app não é direcionado a crianças e não coleta dados de ninguém, de qualqu
 ## Seus direitos
 
 Como não guardamos os seus dados, você já os controla diretamente: pode ver, editar, exportar e apagar tudo dentro do app. Para remover o que está no iCloud, apague os dados do app nos Ajustes do iCloud do aparelho. Apagar o app remove os dados locais. Se algo aqui não ficar claro, ou se você quiser exercer algum direito previsto na Lei Geral de Proteção de Dados (LGPD), fale conosco.
+
+Se você mora na União Europeia, no Espaço Econômico Europeu ou no Reino Unido, também pode apresentar uma reclamação à autoridade de proteção de dados do seu país. Como não coletamos dados pessoais, o único tratamento dos seus dados é o do iCloud, feito pela Apple sob a política dela.
 
 ## Mudanças nesta política
 

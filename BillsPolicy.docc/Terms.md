@@ -1,6 +1,6 @@
 # Terms of Use — Bills (Minhas Contas: Orçamentos)
 
-**Effective November 6, 2026.** [Versão em português](doc:Termos)
+**Effective November 7, 2026.** [Versão em português](doc:Termos)
 
 By installing and using Bills (called "Minhas Contas: Orçamentos" in Portuguese, "the app"), you agree to these terms. If you don't agree, don't use the app. The app is offered by **Brenno Giovanini de Moura** ("we"), an independent developer.
 
@@ -59,6 +59,8 @@ We may update these terms. Relevant changes will be announced in the app or in t
 ## 12. Governing law and venue
 
 These terms follow the laws of **Brazil**, including the Consumer Protection Code. For disputes, the venue is that of the **consumer's domicile**, where you are a consumer.
+
+**If you live in the European Union** (or anywhere else where the law gives you mandatory consumer protection), the mandatory rights of your country of residence continue to apply, and you may bring proceedings in its courts. That includes, where the law provides for it, the right to withdraw from a purchase, which Apple handles for purchases made through the App Store (see section 3).
 
 ## 13. Contact
 

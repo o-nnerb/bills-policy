@@ -1,6 +1,6 @@
 # Privacy Policy — Bills (Minhas Contas: Orçamentos)
 
-**Effective November 6, 2026.** [Versão em português](doc:Privacidade)
+**Effective November 7, 2026.** [Versão em português](doc:Privacidade)
 
 Bills (called "Minhas Contas: Orçamentos" in Portuguese, "the app" below) helps you plan bills and income that repeat. This policy explains, plainly, what happens to your data.
 
@@ -65,6 +65,8 @@ The app is not directed at children and does not collect data from anyone, of an
 ## Your rights
 
 Since we don't hold your data, you already control it directly: you can view, edit, export and delete everything inside the app. To remove what is in iCloud, delete the app's data in the device's iCloud settings. Deleting the app removes local data. If anything here is unclear, or you want to exercise a right under data-protection law (such as Brazil's LGPD or the GDPR), get in touch.
+
+If you live in the European Union, the European Economic Area or the United Kingdom, you can also lodge a complaint with the data-protection authority of your country. Since we don't collect personal data, the only handling of your data is that of iCloud, done by Apple under its own policy.
 
 ## Changes to this policy
 

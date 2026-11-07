@@ -1,6 +1,6 @@
 # Termos de Uso — Minhas Contas: Orçamentos (Bills)
 
-**Em vigor desde 6 de novembro de 2026.** [English version](doc:Terms)
+**Em vigor desde 7 de novembro de 2026.** [English version](doc:Terms)
 
 Ao instalar e usar o app Minhas Contas: Orçamentos (chamado "Bills" em inglês, "o app"), você concorda com estes termos. Se não concordar, não use o app. O app é oferecido por **Brenno Giovanini de Moura** ("nós"), desenvolvedor independente.
 
@@ -59,6 +59,8 @@ Podemos atualizar estes termos. Mudanças relevantes serão informadas no app ou
 ## 12. Lei aplicável e foro
 
 Estes termos seguem as leis do **Brasil**, incluindo o Código de Defesa do Consumidor. Para disputas, fica eleito o foro do **domicílio do consumidor**, quando você for consumidor.
+
+**Se você mora na União Europeia** (ou em outro lugar onde a lei lhe garante proteção obrigatória como consumidor), continuam valendo os direitos obrigatórios do seu país de residência, e você pode propor ações nos tribunais dele. Isso inclui, quando previsto em lei, o direito de se arrepender de uma compra, que a Apple processa nas compras feitas pela App Store (veja a seção 3).
 
 ## 13. Contato
 
