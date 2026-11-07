@@ -1,8 +1,8 @@
-# Termos de Uso — Minhas Contas (Bills)
+# Termos de Uso — Minhas Contas: Orçamentos (Bills)
 
 **Em vigor desde 6 de novembro de 2026.** [English version](doc:Terms)
 
-Ao instalar e usar o Minhas Contas (chamado "Bills" em inglês, "o app"), você concorda com estes termos. Se não concordar, não use o app. O app é oferecido por **Brenno Giovanini de Moura** ("nós"), desenvolvedor independente.
+Ao instalar e usar o app Minhas Contas: Orçamentos (chamado "Bills" em inglês, "o app"), você concorda com estes termos. Se não concordar, não use o app. O app é oferecido por **Brenno Giovanini de Moura** ("nós"), desenvolvedor independente.
 
 Estes termos valem **além** do Contrato de Licença de Aplicativo Licenciado da Apple (o "EULA padrão"), que também se aplica ao app. Em caso de conflito sobre a licença do app, vale o da Apple.
 

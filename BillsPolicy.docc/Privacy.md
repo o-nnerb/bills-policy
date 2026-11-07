@@ -1,8 +1,8 @@
-# Privacy Policy — Bills (Minhas Contas)
+# Privacy Policy — Bills (Minhas Contas: Orçamentos)
 
 **Effective November 6, 2026.** [Versão em português](doc:Privacidade)
 
-Bills (called "Minhas Contas" in Portuguese, "the app" below) helps you plan bills and income that repeat. This policy explains, plainly, what happens to your data.
+Bills (called "Minhas Contas: Orçamentos" in Portuguese, "the app" below) helps you plan bills and income that repeat. This policy explains, plainly, what happens to your data.
 
 ## Summary
 

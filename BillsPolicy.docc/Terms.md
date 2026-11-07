@@ -1,8 +1,8 @@
-# Terms of Use — Bills (Minhas Contas)
+# Terms of Use — Bills (Minhas Contas: Orçamentos)
 
 **Effective November 6, 2026.** [Versão em português](doc:Termos)
 
-By installing and using Bills (called "Minhas Contas" in Portuguese, "the app"), you agree to these terms. If you don't agree, don't use the app. The app is offered by **Brenno Giovanini de Moura** ("we"), an independent developer.
+By installing and using Bills (called "Minhas Contas: Orçamentos" in Portuguese, "the app"), you agree to these terms. If you don't agree, don't use the app. The app is offered by **Brenno Giovanini de Moura** ("we"), an independent developer.
 
 These terms apply **in addition to** Apple's Licensed Application End User License Agreement (the "standard EULA"), which also applies to the app. If they conflict on the license of the app, Apple's prevails.
 

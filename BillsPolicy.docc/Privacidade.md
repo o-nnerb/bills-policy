@@ -1,8 +1,8 @@
-# Política de Privacidade — Minhas Contas (Bills)
+# Política de Privacidade — Minhas Contas: Orçamentos (Bills)
 
 **Em vigor desde 6 de novembro de 2026.** [English version](doc:Privacy)
 
-O Minhas Contas (chamado "Bills" em inglês, daqui em diante "o app") ajuda você a planejar contas e receitas que se repetem. Esta política explica, sem rodeios, o que acontece com os seus dados.
+O app Minhas Contas: Orçamentos (chamado "Bills" em inglês, daqui em diante "o app") ajuda você a planejar contas e receitas que se repetem. Esta política explica, sem rodeios, o que acontece com os seus dados.
 
 ## Resumo
 

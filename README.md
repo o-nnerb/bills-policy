@@ -1,6 +1,6 @@
 # Bills — Política de Privacidade e Termos de Uso
 
-Documentos públicos do app **Minhas Contas (Bills)**. / Public documents of the **Bills (Minhas Contas)** app.
+Documentos públicos do app **Minhas Contas: Orçamentos (Bills)**. / Public documents of the **Bills (Minhas Contas: Orçamentos)** app.
 
 **Site: <https://o-nnerb.github.io/bills-policy/>**
 
