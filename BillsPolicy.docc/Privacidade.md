@@ -1,6 +1,6 @@
 # Política de Privacidade — Minhas Contas (Bills)
 
-**Em vigor desde 6 de novembro de 2026.** [English version](en.md)
+**Em vigor desde 6 de novembro de 2026.** [English version](doc:Privacy)
 
 O Minhas Contas (chamado "Bills" em inglês, daqui em diante "o app") ajuda você a planejar contas e receitas que se repetem. Esta política explica, sem rodeios, o que acontece com os seus dados.
 
@@ -13,7 +13,7 @@ O Minhas Contas (chamado "Bills" em inglês, daqui em diante "o app") ajuda voc�
 
 ## Quem somos
 
-O app é feito e mantido pelo desenvolvedor independente **o-nnerb**. Como não recebemos os seus dados, não somos quem guarda nem quem trata o que você cadastra: isso fica entre você e a Apple. Para perguntas, veja "Contato" no fim.
+O app é feito e mantido pelo desenvolvedor independente **Brenno Giovanini de Moura**. Como não recebemos os seus dados, não somos quem guarda nem quem trata o que você cadastra: isso fica entre você e a Apple. Para perguntas, veja "Contato" no fim.
 
 ## O que o app guarda
 
@@ -72,4 +72,4 @@ Se o app passar a tratar dados de outra forma, esta política será atualizada a
 
 ## Contato
 
-Abra uma conversa em <https://github.com/o-nnerb/bills-policy/issues>.
+E-mail: <o.nnerb@icloud.com>. Também é possível abrir uma conversa em <https://github.com/o-nnerb/bills-policy/issues>.

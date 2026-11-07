@@ -1,6 +1,6 @@
 # Privacy Policy — Bills (Minhas Contas)
 
-**Effective November 6, 2026.** [Versão em português](pt-BR.md)
+**Effective November 6, 2026.** [Versão em português](doc:Privacidade)
 
 Bills (called "Minhas Contas" in Portuguese, "the app" below) helps you plan bills and income that repeat. This policy explains, plainly, what happens to your data.
 
@@ -13,7 +13,7 @@ Bills (called "Minhas Contas" in Portuguese, "the app" below) helps you plan bil
 
 ## Who we are
 
-The app is made and maintained by the independent developer **o-nnerb**. Because we don't receive your data, we are not the one who stores or processes what you enter: that is between you and Apple. For questions, see "Contact" at the end.
+The app is made and maintained by the independent developer **Brenno Giovanini de Moura**. Because we don't receive your data, we are not the one who stores or processes what you enter: that is between you and Apple. For questions, see "Contact" at the end.
 
 ## What the app stores
 
@@ -72,4 +72,4 @@ If the app starts handling data in a different way, this policy will be updated 
 
 ## Contact
 
-Open a conversation at <https://github.com/o-nnerb/bills-policy/issues>.
+Email: <o.nnerb@icloud.com>. You can also open a conversation at <https://github.com/o-nnerb/bills-policy/issues>.

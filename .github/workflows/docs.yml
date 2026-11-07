@@ -1,0 +1,76 @@
+name: Documentação
+
+# Gera o site DocC da política e dos termos e publica no GitHub Pages
+# (https://o-nnerb.github.io/bills-policy/). Em pull request só compila, para pegar erro
+# antes de publicar; a publicação acontece no push para main.
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
+
+jobs:
+  build:
+    # O docc vem com o Xcode, que só existe nos executores macOS.
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Gerar o DocC
+        run: |
+          set -o pipefail
+          xcrun docc convert BillsPolicy.docc \
+            --fallback-display-name BillsPolicy \
+            --fallback-bundle-identifier br.com.onnerb.BillsPolicy \
+            --output-path _site \
+            --transform-for-static-hosting \
+            --hosting-base-path bills-policy 2>&1 | tee docc.log
+          # Link quebrado ou página sem título não deve ir ao ar.
+          if grep -q "warning:" docc.log; then
+            echo "::error::O DocC gerou avisos."
+            exit 1
+          fi
+
+      - name: Página inicial
+        # O DocC só gera as páginas de documentação: sem isto, a raiz do site mostra "página não encontrada".
+        run: |
+          cat > _site/index.html <<'HTML'
+          <!doctype html>
+          <html lang="pt-BR">
+          <head>
+            <meta charset="utf-8">
+            <title>Bills — Privacidade e Termos</title>
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <meta http-equiv="refresh" content="0; url=documentation/billspolicy/">
+            <link rel="canonical" href="documentation/billspolicy/">
+          </head>
+          <body>
+            <p><a href="documentation/billspolicy/">Bills — Privacidade e Termos / Privacy and Terms</a></p>
+          </body>
+          </html>
+          HTML
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    if: github.event_name != 'pull_request'
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

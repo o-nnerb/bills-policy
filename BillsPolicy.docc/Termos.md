@@ -1,8 +1,8 @@
 # Termos de Uso — Minhas Contas (Bills)
 
-**Em vigor desde 6 de novembro de 2026.** [English version](en.md)
+**Em vigor desde 6 de novembro de 2026.** [English version](doc:Terms)
 
-Ao instalar e usar o Minhas Contas (chamado "Bills" em inglês, "o app"), você concorda com estes termos. Se não concordar, não use o app. O app é oferecido por **o-nnerb** ("nós").
+Ao instalar e usar o Minhas Contas (chamado "Bills" em inglês, "o app"), você concorda com estes termos. Se não concordar, não use o app. O app é oferecido por **Brenno Giovanini de Moura** ("nós"), desenvolvedor independente.
 
 Estes termos valem **além** do Contrato de Licença de Aplicativo Licenciado da Apple (o "EULA padrão"), que também se aplica ao app. Em caso de conflito sobre a licença do app, vale o da Apple.
 
@@ -26,7 +26,7 @@ O app tem um plano **Grátis** e dois planos pagos, **Plus** e **Pro**, que libe
 
 ## 4. Os seus dados
 
-O que você cadastra é **seu**. A forma como os dados são guardados e tratados está na [Política de Privacidade](../privacy/pt-BR.md). Você é responsável por manter **cópias de segurança** do que importa: o app permite exportar cada orçamento, e o iCloud é da Apple, não nosso. Não podemos recuperar dados perdidos, porque não os temos.
+O que você cadastra é **seu**. A forma como os dados são guardados e tratados está na [Política de Privacidade](doc:Privacidade). Você é responsável por manter **cópias de segurança** do que importa: o app permite exportar cada orçamento, e o iCloud é da Apple, não nosso. Não podemos recuperar dados perdidos, porque não os temos.
 
 ## 5. Assistente com IA
 
@@ -62,4 +62,4 @@ Estes termos seguem as leis do **Brasil**, incluindo o Código de Defesa do Cons
 
 ## 13. Contato
 
-Abra uma conversa em <https://github.com/o-nnerb/bills-policy/issues>.
+E-mail: <o.nnerb@icloud.com>. Também é possível abrir uma conversa em <https://github.com/o-nnerb/bills-policy/issues>.

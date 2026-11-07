@@ -1,8 +1,8 @@
 # Terms of Use — Bills (Minhas Contas)
 
-**Effective November 6, 2026.** [Versão em português](pt-BR.md)
+**Effective November 6, 2026.** [Versão em português](doc:Termos)
 
-By installing and using Bills (called "Minhas Contas" in Portuguese, "the app"), you agree to these terms. If you don't agree, don't use the app. The app is offered by **o-nnerb** ("we").
+By installing and using Bills (called "Minhas Contas" in Portuguese, "the app"), you agree to these terms. If you don't agree, don't use the app. The app is offered by **Brenno Giovanini de Moura** ("we"), an independent developer.
 
 These terms apply **in addition to** Apple's Licensed Application End User License Agreement (the "standard EULA"), which also applies to the app. If they conflict on the license of the app, Apple's prevails.
 
@@ -26,7 +26,7 @@ The app has a **Free** plan and two paid plans, **Plus** and **Pro**, which unlo
 
 ## 4. Your data
 
-What you enter is **yours**. How data is stored and handled is in the [Privacy Policy](../privacy/en.md). You are responsible for keeping **backups** of what matters: the app lets you export each budget, and iCloud belongs to Apple, not to us. We can't recover lost data, because we don't have it.
+What you enter is **yours**. How data is stored and handled is in the [Privacy Policy](doc:Privacy). You are responsible for keeping **backups** of what matters: the app lets you export each budget, and iCloud belongs to Apple, not to us. We can't recover lost data, because we don't have it.
 
 ## 5. AI assistant
 
@@ -62,4 +62,4 @@ These terms follow the laws of **Brazil**, including the Consumer Protection Cod
 
 ## 13. Contact
 
-Open a conversation at <https://github.com/o-nnerb/bills-policy/issues>.
+Email: <o.nnerb@icloud.com>. You can also open a conversation at <https://github.com/o-nnerb/bills-policy/issues>.
