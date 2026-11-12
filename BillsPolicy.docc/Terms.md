@@ -1,6 +1,6 @@
 # Terms of Use — Bills (Minhas Contas: Orçamentos)
 
-**Effective November 7, 2026.** [Versão em português](doc:Termos)
+**Effective November 12, 2026.** [Versão em português](doc:Termos)
 
 By installing and using Bills (called "Minhas Contas: Orçamentos" in Portuguese, "the app"), you agree to these terms. If you don't agree, don't use the app. The app is offered by **Brenno Giovanini de Moura** ("we"), an independent developer.
 
@@ -14,6 +14,19 @@ An app to plan bills and income that repeat, organized in budgets, with reminder
 
 The app has a **Free** plan and two paid plans, **Plus** and **Pro**, which unlock additional features. What each plan includes is shown on the app's plans screen and may evolve over time. What is free today, such as adding bills, recurrences and reminders, will not stop being part of the app's essentials without notice.
 
+Today, the **Free** plan has bills, recurrences and reminders with no limit, up to **2 budgets of your own open**, and up to **5 attachments** in all. **Plus** lifts those limits and includes sharing budgets through iCloud and showing your bills in the Calendar app. **Pro** includes everything in Plus, plus the AI shopping assistant and reports and file export of budgets (PDF and JSON). Budgets that other people share with you do not count toward the 2 of the Free plan.
+
+### When a paid plan ends
+
+What you created is **not deleted**. When you go back to the Free plan:
+
+- If you have more than 2 budgets of your own, the first 2 in your list stay open and the others become **visible and view-only**: you can look at them, but not change them, complete bills or add any. Those budgets stop counting in the icon badge, reminders, alarms, widgets, Spotlight, Siri and the Calendar. You choose which ones stay open by reordering the list.
+- Attachments you already have stay visible. New attachments are only allowed up to the Free plan's limit.
+- The app **stops updating** the calendar it created in the Calendar app and, **30 days after** the plan ends, the next time you open the app, removes that calendar. If you subscribe again within that time, it picks up where it left off.
+- The Pro features (the shopping assistant and file reports) are no longer available.
+
+When you subscribe again, all of this is available again, with what you already had.
+
 ## 3. Subscriptions
 
 - Subscriptions are **auto-renewing**, monthly or yearly, and are sold and charged by the **App Store**, at the price shown in the app before purchase, in your storefront's currency.
@@ -22,11 +35,12 @@ The app has a **Free** plan and two paid plans, **Plus** and **Pro**, which unlo
 - **Free trial:** when offered, it is shown on the purchase screen, applies once per person and, if not cancelled before it ends, becomes a paid subscription.
 - **Changing plan:** moving up to a higher plan takes effect immediately; moving down takes effect at the next renewal, under App Store rules.
 - **Refunds** are handled by Apple, under its rules and applicable law. To request one, use <https://reportaproblem.apple.com>. We have no access to your payment details and can't refund directly.
+- **Family Sharing:** subscriptions can be shared with your Apple family group, under Apple's rules.
 - Prices may change. When they do, Apple notifies you and, where required, asks for your consent before the next renewal.
 
 ## 4. Your data
 
-What you enter is **yours**. How data is stored and handled is in the [Privacy Policy](doc:Privacy). You are responsible for keeping **backups** of what matters: the app lets you export each budget, and iCloud belongs to Apple, not to us. We can't recover lost data, because we don't have it.
+What you enter is **yours**. How data is stored and handled is in the [Privacy Policy](doc:Privacy). You are responsible for keeping **backups** of what matters: the Pro plan lets you export each budget as a file (PDF and JSON), and iCloud, where your data is kept if you turn it on, belongs to Apple, not to us. We can't recover lost data, because we don't have it.
 
 ## 5. AI assistant
 

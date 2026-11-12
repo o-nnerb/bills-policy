@@ -1,6 +1,6 @@
 # Privacy Policy — Bills (Minhas Contas: Orçamentos)
 
-**Effective November 7, 2026.** [Versão em português](doc:Privacidade)
+**Effective November 12, 2026.** [Versão em português](doc:Privacidade)
 
 Bills (called "Minhas Contas: Orçamentos" in Portuguese, "the app" below) helps you plan bills and income that repeat. This policy explains, plainly, what happens to your data.
 
@@ -33,7 +33,7 @@ The app only asks for what it uses, and only when you turn the feature on:
 
 - **Notifications:** reminders for bills and the number on the icon. They are generated on the device.
 - **Alarms:** ring at the time of the bills you mark as urgent. Also on the device.
-- **Calendar:** if you turn it on, the app creates a calendar of its own in the Calendar app with your bills. The device's Calendar may sync that calendar with the accounts you use (for example iCloud). That is your choice and follows the rules of those services.
+- **Calendar:** if you turn it on, the app creates a calendar of its own in the Calendar app with your bills. The device's Calendar may sync that calendar with the accounts you use (for example iCloud). That is your choice and follows the rules of those services. If the Plus plan ends, the app stops updating that calendar and, 30 days later, removes the calendar it created.
 - **Siri, Shortcuts, Spotlight, widgets and CarPlay:** the app exposes your bills to these system features, which run on the device. Widgets read the data through a shared area of the app, on the device itself.
 
 You can deny or withdraw any permission in the system Settings.
@@ -48,7 +48,7 @@ The assistant uses **Apple's on-device language model**. What you ask and the bi
 
 ## Purchases and subscriptions
 
-Subscriptions (Plus and Pro) are sold and charged by the **App Store**. Apple handles the payment: **we never receive your card number or payment details**. The app only checks, on the device, whether a subscription is active, using StoreKit, and sends that information to no one.
+Subscriptions (Plus and Pro) are sold and charged by the **App Store**. Apple handles the payment: **we never receive your card number or payment details**. The app only checks, on the device, whether a subscription is active, using StoreKit, and sends that information to no one. With Family Sharing the check is the same, done on the device.
 
 ## Crash reports
 
@@ -56,7 +56,7 @@ If you share analytics with developers in the device's Settings, Apple may send 
 
 ## Files you export
 
-When you export or share a budget (PDF, JSON, app file), the file goes wherever you choose. From there, taking care of it is up to you.
+When you export or share a budget as a file (PDF or JSON, on the Pro plan), the file goes wherever you choose. From there, taking care of it is up to you.
 
 ## Children
 
@@ -64,7 +64,7 @@ The app is not directed at children and does not collect data from anyone, of an
 
 ## Your rights
 
-Since we don't hold your data, you already control it directly: you can view, edit, export and delete everything inside the app. To remove what is in iCloud, delete the app's data in the device's iCloud settings. Deleting the app removes local data. If anything here is unclear, or you want to exercise a right under data-protection law (such as Brazil's LGPD or the GDPR), get in touch.
+Since we don't hold your data, you already control it directly: you can view, edit and delete everything inside the app and, on the Pro plan, export it as a file (PDF and JSON). To remove what is in iCloud, delete the app's data in the device's iCloud settings. Deleting the app removes local data. If anything here is unclear, or you want to exercise a right under data-protection law (such as Brazil's LGPD or the GDPR), get in touch.
 
 If you live in the European Union, the European Economic Area or the United Kingdom, you can also lodge a complaint with the data-protection authority of your country. Since we don't collect personal data, the only handling of your data is that of iCloud, done by Apple under its own policy.
 
