@@ -1,6 +1,6 @@
 # Termos de Uso — Minhas Contas: Orçamentos (Bills)
 
-**Em vigor desde 7 de novembro de 2026.** [English version](doc:Terms)
+**Em vigor desde 12 de novembro de 2026.** [English version](doc:Terms)
 
 Ao instalar e usar o app Minhas Contas: Orçamentos (chamado "Bills" em inglês, "o app"), você concorda com estes termos. Se não concordar, não use o app. O app é oferecido por **Brenno Giovanini de Moura** ("nós"), desenvolvedor independente.
 
@@ -14,6 +14,19 @@ Um aplicativo para planejar contas e receitas que se repetem, organizadas em or�
 
 O app tem um plano **Grátis** e dois planos pagos, **Plus** e **Pro**, que liberam recursos adicionais. O que cada plano inclui é mostrado na tela de planos do app e pode evoluir com o tempo. O que já é grátis hoje, como cadastrar contas, recorrências e lembretes, não deixará de ser parte do essencial do app sem aviso.
 
+Hoje, o plano **Grátis** tem contas, recorrências e lembretes sem limite, até **2 orçamentos próprios abertos** e até **5 anexos** no total. O **Plus** tira esses limites e inclui compartilhar orçamentos pelo iCloud e mostrar as contas no app Calendário. O **Pro** inclui tudo do Plus, mais o assistente de compras com IA e os relatórios e a exportação de orçamentos em arquivo (PDF e JSON). Os orçamentos que outras pessoas compartilham com você não contam nos 2 do plano Grátis.
+
+### Quando um plano pago termina
+
+O que você criou **não é apagado**. Ao voltar ao plano Grátis:
+
+- Se você tem mais de 2 orçamentos próprios, os 2 primeiros da sua lista continuam abertos e os outros ficam **visíveis e só para ver**: você pode olhá-los, mas não alterar, concluir contas nem adicionar. Esses orçamentos deixam de entrar no número no ícone, nos lembretes, nos alarmes, nos widgets, no Spotlight, na Siri e no Calendário. Você escolhe quais ficam abertos ao reordenar a lista.
+- Os anexos que você já tem continuam visíveis. Novos anexos só até o limite do plano Grátis.
+- O app **deixa de atualizar** o calendário que criou no app Calendário e, **30 dias depois** de o plano acabar, na próxima vez que você abrir o app, remove esse calendário. Se você voltar a assinar nesse prazo, ele continua de onde parou.
+- Os recursos do Pro (assistente de compras e relatórios em arquivo) deixam de estar disponíveis.
+
+Ao voltar a assinar, tudo isso volta a ficar disponível, com o que você já tinha.
+
 ## 3. Assinaturas
 
 - As assinaturas são **de renovação automática**, mensais ou anuais, e são vendidas e cobradas pela **App Store**, pelo valor mostrado no app antes da compra, na moeda da sua loja.
@@ -22,11 +35,12 @@ O app tem um plano **Grátis** e dois planos pagos, **Plus** e **Pro**, que libe
 - **Teste grátis:** quando houver, é indicado na tela de compra, vale uma vez por pessoa e, se não for cancelado antes do fim, vira uma assinatura paga.
 - **Troca de plano:** subir para um plano maior vale na hora; descer vale na próxima renovação, conforme as regras da App Store.
 - **Reembolsos** são tratados pela Apple, conforme as regras dela e a lei aplicável. Para pedir, use <https://reportaproblem.apple.com>. Nós não temos acesso aos seus dados de pagamento e não conseguimos reembolsar diretamente.
+- **Compartilhamento Familiar:** as assinaturas podem ser compartilhadas com o seu grupo familiar da Apple, conforme as regras dela.
 - Os preços podem mudar. Quando mudarem, a Apple avisa você e, quando exigido, pede o seu consentimento antes da próxima renovação.
 
 ## 4. Os seus dados
 
-O que você cadastra é **seu**. A forma como os dados são guardados e tratados está na [Política de Privacidade](doc:Privacidade). Você é responsável por manter **cópias de segurança** do que importa: o app permite exportar cada orçamento, e o iCloud é da Apple, não nosso. Não podemos recuperar dados perdidos, porque não os temos.
+O que você cadastra é **seu**. A forma como os dados são guardados e tratados está na [Política de Privacidade](doc:Privacidade). Você é responsável por manter **cópias de segurança** do que importa: o plano Pro permite exportar cada orçamento em arquivo (PDF e JSON), e o iCloud, onde os dados ficam se você o ligar, é da Apple, não nosso. Não podemos recuperar dados perdidos, porque não os temos.
 
 ## 5. Assistente com IA
 

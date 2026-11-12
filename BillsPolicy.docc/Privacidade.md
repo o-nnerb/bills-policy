@@ -1,6 +1,6 @@
 # Política de Privacidade — Minhas Contas: Orçamentos (Bills)
 
-**Em vigor desde 7 de novembro de 2026.** [English version](doc:Privacy)
+**Em vigor desde 12 de novembro de 2026.** [English version](doc:Privacy)
 
 O app Minhas Contas: Orçamentos (chamado "Bills" em inglês, daqui em diante "o app") ajuda você a planejar contas e receitas que se repetem. Esta política explica, sem rodeios, o que acontece com os seus dados.
 
@@ -33,7 +33,7 @@ O app só pede o que usa, e só quando você liga o recurso:
 
 - **Notificações:** lembretes de contas e o número no ícone. São gerados no aparelho.
 - **Alarmes:** tocam na hora das contas que você marca como urgentes. Também no aparelho.
-- **Calendário:** se você ligar, o app cria um calendário próprio no app Calendário com as suas contas. O Calendário do aparelho pode sincronizar esse calendário com as contas que você usa (por exemplo, o iCloud). Isso é decisão sua e segue as regras desses serviços.
+- **Calendário:** se você ligar, o app cria um calendário próprio no app Calendário com as suas contas. O Calendário do aparelho pode sincronizar esse calendário com as contas que você usa (por exemplo, o iCloud). Isso é decisão sua e segue as regras desses serviços. Se o plano Plus acabar, o app deixa de atualizar esse calendário e, 30 dias depois, remove o calendário que criou.
 - **Siri, Atalhos, Spotlight, widgets e CarPlay:** o app expõe as suas contas a esses recursos do sistema, que rodam no aparelho. Os widgets leem os dados por uma área compartilhada do app, no próprio aparelho.
 
 Você pode negar ou retirar qualquer permissão nos Ajustes do sistema.
@@ -48,7 +48,7 @@ O assistente usa o **modelo de linguagem local da Apple, no aparelho**. O que vo
 
 ## Compras e assinaturas
 
-As assinaturas (Plus e Pro) são vendidas e cobradas pela **App Store**. A Apple trata o pagamento: **nós não recebemos o número do seu cartão nem os seus dados de pagamento**. O app apenas verifica, no aparelho, se há uma assinatura ativa, usando o StoreKit, e não envia essa informação a ninguém.
+As assinaturas (Plus e Pro) são vendidas e cobradas pela **App Store**. A Apple trata o pagamento: **nós não recebemos o número do seu cartão nem os seus dados de pagamento**. O app apenas verifica, no aparelho, se há uma assinatura ativa, usando o StoreKit, e não envia essa informação a ninguém. Com o Compartilhamento Familiar, a verificação é a mesma, feita no aparelho.
 
 ## Relatórios de falhas
 
@@ -56,7 +56,7 @@ Se você compartilha dados de análise com os desenvolvedores nos Ajustes do apa
 
 ## Arquivos que você exporta
 
-Quando você exporta ou compartilha um orçamento (PDF, JSON, arquivo do app), o arquivo vai para onde você escolher. A partir daí, o cuidado com ele é seu.
+Quando você exporta ou compartilha um orçamento em arquivo (PDF ou JSON, no plano Pro), o arquivo vai para onde você escolher. A partir daí, o cuidado com ele é seu.
 
 ## Crianças
 
@@ -64,7 +64,7 @@ O app não é direcionado a crianças e não coleta dados de ninguém, de qualqu
 
 ## Seus direitos
 
-Como não guardamos os seus dados, você já os controla diretamente: pode ver, editar, exportar e apagar tudo dentro do app. Para remover o que está no iCloud, apague os dados do app nos Ajustes do iCloud do aparelho. Apagar o app remove os dados locais. Se algo aqui não ficar claro, ou se você quiser exercer algum direito previsto na Lei Geral de Proteção de Dados (LGPD), fale conosco.
+Como não guardamos os seus dados, você já os controla diretamente: pode ver, editar e apagar tudo dentro do app e, com o plano Pro, exportar em arquivo (PDF e JSON). Para remover o que está no iCloud, apague os dados do app nos Ajustes do iCloud do aparelho. Apagar o app remove os dados locais. Se algo aqui não ficar claro, ou se você quiser exercer algum direito previsto na Lei Geral de Proteção de Dados (LGPD), fale conosco.
 
 Se você mora na União Europeia, no Espaço Econômico Europeu ou no Reino Unido, também pode apresentar uma reclamação à autoridade de proteção de dados do seu país. Como não coletamos dados pessoais, o único tratamento dos seus dados é o do iCloud, feito pela Apple sob a política dela.
 
