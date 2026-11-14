@@ -1,0 +1,17 @@
+<style>
+.content p, .content li, .content ul, .content ol, .content h1, .content h2, .content h3 { text-align: start; }
+</style>
+<script>
+  // Páginas em idiomas escritos da direita para a esquerda (árabe): o navegador escolhe a direção de
+  // cada bloco pelo próprio texto, e o alinhamento e os marcadores da lista acompanham.
+  (function () {
+    var sel = ".content p, .content ul, .content ol, .content h1, .content h2, .content h3, .content .eyebrow";
+    function apply() {
+      document.querySelectorAll(sel).forEach(function (el) {
+        if (!el.hasAttribute("dir")) el.setAttribute("dir", "auto");
+      });
+    }
+    new MutationObserver(apply).observe(document.documentElement, { childList: true, subtree: true });
+    apply();
+  })();
+</script>

@@ -1,6 +1,8 @@
 # Política de Privacidade — Minhas Contas: Orçamentos (Bills)
 
-**Em vigor desde 12 de novembro de 2026.** [English version](doc:Privacy)
+**Em vigor desde 12 de novembro de 2026.**
+
+[English](doc:Privacy) · **Português** · [Español](doc:Privacy-es) · [Français](doc:Privacy-fr) · [Deutsch](doc:Privacy-de) · [Italiano](doc:Privacy-it) · [日本語](doc:Privacy-ja) · [한국어](doc:Privacy-ko) · [简体中文](doc:Privacy-zh-Hans) · [繁體中文](doc:Privacy-zh-Hant) · [Русский](doc:Privacy-ru) · [العربية](doc:Privacy-ar) · [Türkçe](doc:Privacy-tr) · [Nederlands](doc:Privacy-nl) · [Polski](doc:Privacy-pl) · [Bahasa Indonesia](doc:Privacy-id) · [हिन्दी](doc:Privacy-hi)
 
 O app Minhas Contas: Orçamentos (chamado "Bills" em inglês, daqui em diante "o app") ajuda você a planejar contas e receitas que se repetem. Esta política explica, sem rodeios, o que acontece com os seus dados.
 
