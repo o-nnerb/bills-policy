@@ -1,6 +1,8 @@
 # Termos de Uso — Minhas Contas: Orçamentos (Bills)
 
-**Em vigor desde 12 de novembro de 2026.** [English version](doc:Terms)
+**Em vigor desde 12 de novembro de 2026.**
+
+[English](doc:Terms) · **Português** · [Español](doc:Terms-es) · [Français](doc:Terms-fr) · [Deutsch](doc:Terms-de) · [Italiano](doc:Terms-it) · [日本語](doc:Terms-ja) · [한국어](doc:Terms-ko) · [简体中文](doc:Terms-zh-Hans) · [繁體中文](doc:Terms-zh-Hant) · [Русский](doc:Terms-ru) · [العربية](doc:Terms-ar) · [Türkçe](doc:Terms-tr) · [Nederlands](doc:Terms-nl) · [Polski](doc:Terms-pl) · [Bahasa Indonesia](doc:Terms-id) · [हिन्दी](doc:Terms-hi)
 
 Ao instalar e usar o app Minhas Contas: Orçamentos (chamado "Bills" em inglês, "o app"), você concorda com estes termos. Se não concordar, não use o app. O app é oferecido por **Brenno Giovanini de Moura** ("nós"), desenvolvedor independente.
 

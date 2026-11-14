@@ -1,6 +1,8 @@
 # Privacy Policy — Bills (Minhas Contas: Orçamentos)
 
-**Effective November 12, 2026.** [Versão em português](doc:Privacidade)
+**Effective November 12, 2026.**
+
+**English** · [Português](doc:Privacidade) · [Español](doc:Privacy-es) · [Français](doc:Privacy-fr) · [Deutsch](doc:Privacy-de) · [Italiano](doc:Privacy-it) · [日本語](doc:Privacy-ja) · [한국어](doc:Privacy-ko) · [简体中文](doc:Privacy-zh-Hans) · [繁體中文](doc:Privacy-zh-Hant) · [Русский](doc:Privacy-ru) · [العربية](doc:Privacy-ar) · [Türkçe](doc:Privacy-tr) · [Nederlands](doc:Privacy-nl) · [Polski](doc:Privacy-pl) · [Bahasa Indonesia](doc:Privacy-id) · [हिन्दी](doc:Privacy-hi)
 
 Bills (called "Minhas Contas: Orçamentos" in Portuguese, "the app" below) helps you plan bills and income that repeat. This policy explains, plainly, what happens to your data.
 
